@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my Machine Learning skills using skit-learn!
+I'm currently working on my Machine Learning skills in Pytorch and Scikit-learn!
 
 
 ## 🌐 Socials:
